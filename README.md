@@ -1,0 +1,2 @@
+# magicwand
+magicwand for linux
